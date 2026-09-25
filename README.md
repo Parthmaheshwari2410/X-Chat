@@ -184,7 +184,6 @@ PORT=5000
 **Client (.env)**
 ```env
 VITE_BACKEND_URL=http://localhost:5000
-VITE_SOCKET_URL=http://localhost:5000
 ```
 
 4. Start the development servers:
