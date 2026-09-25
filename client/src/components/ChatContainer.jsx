@@ -110,7 +110,7 @@ const ChatContainer = () => {
                     return (
                         <div
                             key={index}
-                            className={`flex items-end gap-2 ${isMine ? "justify-end" : "justify-start flex-row-reverse"
+                            className={`flex w-full items-end gap-2 ${isMine ? "justify-end" : "justify-start"
                                 }`}
                         >
                             {msg.image ? (
