@@ -1,8 +1,11 @@
----
+
 
 ## Overview
 
 X-Chat is a full-stack real-time chat application that enables instant messaging with features like:
+...
+
+---
 
 - 🔐 Secure user authentication
 - ⚡ Real-time message delivery
@@ -196,15 +199,15 @@ cd client && npm run dev
 ---
 
 ## Usage
-1.**Register/Login**: Create an account or log in
-2.**Find Contacts**: Search for other users
-3.**Start Chatting**: Select a contact and begin messaging
-4.**Real-Time Updates**: See messages appear instantly
-5.**Profile Management**: Update your profile picture and status
-6.**Create Group**: Create a group conversation with multiple users
-7.**Add Members**: Add users to an existing group
-8.**Manage Group**: Group admins can manage group information and members
-9.**Group Messaging**: Send and receive real-time messages with multiple users
+1. **Register/Login**: Create an account or log in
+2. **Find Contacts**: Search for other users
+3. **Start Chatting**: Select a contact and begin messaging
+4. **Real-Time Updates**: See messages appear instantly
+5. **Profile Management**: Update your profile picture and status
+6. **Create Group**: Create a group conversation with multiple users
+7. **Add Members**: Add users to an existing group
+8. **Manage Group**: Group admins can manage group information and members
+9. **Group Messaging**: Send and receive real-time messages with multiple users
 
 ---
 
@@ -230,13 +233,13 @@ cd client && npm run dev
 | GET    | /api/messages/:chatId | Get chat messages |
 | POST   | /api/messages      | Send new message    |
 
-Groups
+### Groups
 | Method | Endpoint           | Description          |
 |--------|--------------------|----------------------|
 |POST	   | /api/groups	        | Create a new group | 
 |GET	   | /api/groups	        | user's groups      |
 |GET	   | /api/groups/:id	    | group details      |
-|POST	   | /api/groups	        | Update group detail|
+|PUT	   | /api/groups/:id	    | Update group detail|
 
 ---
 
