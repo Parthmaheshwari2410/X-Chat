@@ -196,15 +196,15 @@ cd client && npm run dev
 ---
 
 ## Usage
-Register/Login: Create an account or log in
-Find Contacts: Search for other users
-Start Chatting: Select a contact and begin messaging
-Real-Time Updates: See messages appear instantly
-Profile Management: Update your profile picture and status
-Create Group: Create a group conversation with multiple users
-Add Members: Add users to an existing group
-Manage Group: Group admins can manage group information and members
-Group Messaging: Send and receive real-time messages with multiple users
+1.**Register/Login**: Create an account or log in
+2.**Find Contacts**: Search for other users
+3.**Start Chatting**: Select a contact and begin messaging
+4.**Real-Time Updates**: See messages appear instantly
+5.**Profile Management**: Update your profile picture and status
+6.**Create Group**: Create a group conversation with multiple users
+7.**Add Members**: Add users to an existing group
+8.**Manage Group**: Group admins can manage group information and members
+9.**Group Messaging**: Send and receive real-time messages with multiple users
 
 ---
 
