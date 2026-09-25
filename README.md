@@ -28,7 +28,7 @@
 
 
 <img width="1301" height="675" alt="Screenshot 2026-09-25 111124" src="https://github.com/user-attachments/assets/5b551bff-9b6f-490e-b59f-d762a885d338" />
-4.
+4.Profile details page
 
 
 
@@ -36,7 +36,7 @@
 
 
 <img width="1333" height="700" alt="Screenshot 2026-09-25 111047" src="https://github.com/user-attachments/assets/52a0f2b3-0575-4b4b-a779-4042d04b9c6f" />
-
+5. one-to-one personChat page
 
 
 
@@ -45,7 +45,7 @@
 
 
 <img width="1337" height="697" alt="Screenshot 2026-09-25 111107" src="https://github.com/user-attachments/assets/34b3743a-a922-4dbd-a539-6bcaa8a4ce89" />
-
+6.Create Group page
 
 
 
@@ -53,7 +53,7 @@
 
 
 <img width="1401" height="699" alt="image" src="https://github.com/user-attachments/assets/0721c132-8482-40d9-aa7a-df174806bec2" />
-
+7.GroupChat Page 
 
 
 
